@@ -1,0 +1,28 @@
+{
+  "name": "brew_you",
+  "version": "1.0.0",
+  "description": "find and log nearby breweries",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klmarsh4/BrewYou.git"
+  },
+  "author": "Kevin Marsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klmarsh4/BrewYou/issues"
+  },
+  "homepage": "https://github.com/klmarsh4/BrewYou#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.3.1",
+    "babel-preset-react": "^6.23.0"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
